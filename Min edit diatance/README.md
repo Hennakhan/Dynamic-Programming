@@ -1,5 +1,7 @@
-min_edit_dist is the python file containing the python code
-Costs.csv and costs2.csv are test file containing Levenshtein Costs and  Confusion Matrix Costs respectively.
+
+# Minimum Edit Distance
+1. min_edit_dist.py is the python file containing the python code 
+2. Costs.csv and costs2.csv are test file containing Levenshtein Costs and  Confusion Matrix Costs respectively.
 
 Running on Linux
 
